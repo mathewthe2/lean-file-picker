@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ch.perron2.lean_file_picker_example">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
    <application
         android:label="lean_file_picker_example"
         android:icon="@mipmap/ic_launcher">
